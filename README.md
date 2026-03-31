@@ -23,5 +23,5 @@ Name: XXX
 
 Key Topics: PyBullet Simulation, Forward/Inverse Kinematics, ROS Middleware, Sensor Data Processing, AI-driven Robot Control.
 
-<img src="img/img01.png" alt="ros2 小乌龟" width="500">
-<img src="img/img02.png" alt="机器狗" width="500">
+<img src="img/img1.png" alt="ros2 小乌龟" width="500">
+<img src="img/img2.png" alt="机器狗" width="500">
